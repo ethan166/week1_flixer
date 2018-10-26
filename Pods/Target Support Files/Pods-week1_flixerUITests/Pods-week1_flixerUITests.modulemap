@@ -1,0 +1,6 @@
+framework module Pods_week1_flixerUITests {
+  umbrella header "Pods-week1_flixerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_week1_flixerTests : NSObject
+@end
+@implementation PodsDummy_Pods_week1_flixerTests
+@end
